@@ -65,7 +65,7 @@ p {
   cursor: pointer;
   box-shadow: 0 5px 15px rgba(255, 88, 100, 0.5); 
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
   transition: transform 0.2s;
 }
 

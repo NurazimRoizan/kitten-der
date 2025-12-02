@@ -196,7 +196,7 @@ function App() {
 
         </div>
         
-        <p style={{marginTop: '20px'}}>Swipe Right (Like) / Left (Pass)</p>
+        <p style={{marginTop: '20px', marginBottom: '50px'}}>Swipe Right (Like) / Left (Pass)</p>
       </div>
     );
   }
