@@ -65,6 +65,7 @@ p {
   cursor: pointer;
   box-shadow: 0 5px 15px rgba(255, 88, 100, 0.5); 
   margin-top: 20px;
+  margin-bottom: 20px;
   transition: transform 0.2s;
 }
 
@@ -73,9 +74,11 @@ p {
 }
 
 .card-container {
-  width: 100%;
+  width: 90%;
+  height: 70vh; 
   max-width: 350px;
-  height: 500px;
+  max-height: 500px; 
+  margin: 0 auto;
   position: relative;
 }
 
@@ -138,9 +141,11 @@ p {
 
 .intro-card {
   position: relative;
-  width: 100%;
+  width: 90%; 
   max-width: 350px;
-  height: 500px;
+  height: 70vh; 
+  max-height: 500px; 
+  margin: 0 auto;
   
   background-color: var(--color-surface); 
   border-radius: 20px;

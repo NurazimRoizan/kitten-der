@@ -149,7 +149,7 @@ function App() {
         </div>
 
         <button 
-          className="btn-primary" 
+          className="btn-primary"
           onClick={() => window.location.reload()}
         >
           Pick Meows Again
