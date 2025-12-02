@@ -97,7 +97,7 @@ function App() {
         <h2>Preparing the Purrfect Matches...</h2>
         <div className="spinner"></div> 
         <p className="loading-text">Fetching 15 felines from Cataas.com</p>
-        <p style={{marginTop: '5px', color: 'var(--color-primary)'}}>
+        <p style={{color: 'var(--color-primary)'}}>
             This may take a moment.
         </p>
       </div>
