@@ -120,7 +120,7 @@ p {
   gap: 10px;
   width: 100%;
   overflow-y: auto;
-  max-height: 60vh;
+  max-height: 55vh;
 }
 
 .liked-thumb {
